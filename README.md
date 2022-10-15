@@ -1,2 +1,1 @@
-# datastructures_using_python3
-Data structures using Python3
+Implementation of basic data structures and their basic operations using Python3
